@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Next.js, Supabase, PHP, UI/UX, System Design**
 
-- 📫 How to reach me **mintuser65+fromgithub.com**
+- 📫 How to reach me [mintuser65+fromgithub.com](mailto:mintuser65+fromgithub.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yrjdeveloper](https://www.linkedin.com/in/yrjdeveloper)
 
