@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameghcoder&label=Profile%20views&color=0e75b6&style=flat" alt="ameghcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameghcoder" alt="ameghcoder" /></a> </p>
-
 - 🔭 I’m currently working on [PixEarn : Just Like YouTube but for Visuals](https://pixearn.com)
 
 - 🌱 I’m currently learning **React Native, DSA, React Deep**
