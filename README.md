@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameghcoder&label=Profile%20views&color=0e75b6&style=flat" alt="ameghcoder" /> </p>
 
 - 🔭 I’m currently working on [PixEarn : Just Like YouTube but for Visuals](https://pixearn.com)
+- ⭐ I’m currently building Smart UI-Component Library [Fysk : Smart UI Library](https://fysk.dev)
 - 🌱 I’m currently learning **React Native, DSA, React Deep**
-- 🤝 I’m looking for Investment for pixearn project [https://pixearn.com](https://pixearn.com)
 - 👨‍💻 All of my projects are available at [https://bento.me/yrj](https://bento.me/yrj)
-- 💬 Ask me about **React, Next.js, Supabase, PHP, UI/UX, System Design**
+- 💬 Ask me about **React, Next.js, Supabase, Packages, UI/UX, System Design**
 - 📫 How to reach me [mintuser65+fromgithub@gmail.com](mailto:mintuser65+fromgithub@gmail.com)
 - 📄 Know about my experiences [https://www.linkedin.com/in/yrjdeveloper](https://www.linkedin.com/in/yrjdeveloper)
 - ⚡ Fun fact **I'm too good at coding and thinking, still under-confident**
@@ -29,11 +29,3 @@
   <li>Analytics & SEO: Google Analytics, Search Console, Schema Microdata</li>
   <li>UI & State: Tailwind CSS, Zustand, Framer Motion, Figma</li>
 </ul>
-<br />
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameghcoder&show_icons=true&locale=en&layout=compact" alt="ameghcoder" />
-</div>
-<br />
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ameghcoder&show_icons=true&locale=en" alt="ameghcoder" />
-</div>
