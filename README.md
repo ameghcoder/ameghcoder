@@ -17,7 +17,7 @@
 <a href="https://x.com/yrjdev" target="blank">[Twitter]</a>
 <a href="https://linkedin.com/in/yrjdeveloper" target="blank">[LinkedIn]</a>
 <a href="https://dribbble.com/ameghcoder" target="blank">[Dribbble]</a>
-<a href="https://bento.me/yrj" target="blank">[Portfolio]</a>
+<a href="https://yrj.fysk.dev" target="blank">[Portfolio]</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
