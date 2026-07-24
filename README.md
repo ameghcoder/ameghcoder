@@ -104,7 +104,7 @@ Features:
 - Async processing
 - pg-boss job queues
 
-🔗 https://creatorjot.com
+🔗 https://creatorjot.vercel.app
 
 ---
 
